@@ -132,4 +132,4 @@ local-*.js
 # Misc
 .history/
 .angular/
-.cursor/
+.cursor\rules
